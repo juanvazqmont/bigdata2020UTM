@@ -6,3 +6,10 @@
 ### Github commands
 
 _this is cursive_
+
+
+function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
