@@ -6,11 +6,11 @@
 ### syllabus contents
 
 ### other topics
-Docker containers
-MapReduce
-Hadoop HDFS
-Apache Spark
-Arquitechture Lambda & Kappa (describe differences)
+* Docker containers
+* MapReduce
+* Hadoop HDFS
+* Apache Spark
+* Arquitechture Lambda & Kappa (describe differences)
 
 ### Github commands
 
