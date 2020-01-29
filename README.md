@@ -3,6 +3,15 @@
 
 ## Big data class
 
+### syllabus contents
+
+### other topics
+Docker containers
+MapReduce
+Hadoop HDFS
+Apache Spark
+Arquitechture Lambda & Kappa (describe differences)
+
 ### Github commands
 
 _this is cursive_
