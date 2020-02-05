@@ -23,3 +23,31 @@ function fancyAlert(arg) {
       }
     }
 ```
+
+### Equations
+
+Centered
+
+$$ F = \frac{G \, m\, m}{r^2}$$
+
+inline is like $F = ma$
+
+$a=\Sum x$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
