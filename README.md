@@ -26,14 +26,16 @@ function fancyAlert(arg) {
 
 ### Equations
 
-Centered
 
-$$ F = \frac{G \, m\, m}{r^2}$$
 
-inline is like $F = ma$
+```math
+SE = \frac{\sigma}{\sqrt{n}}
 
-$a=\Sum x$
+F = \frac{G \, m\, m}{r^2}
 
+
+a=\Sum x
+```
 
 
 
